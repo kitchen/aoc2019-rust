@@ -1,0 +1,11 @@
+#+TITLE:     Advent of Code 2019 ... in rust
+#+AUTHOR:    Jeremy Kitchen
+#+EMAIL:     kitchen@kitchen.io
+
+I've decided I want to learn more about [[https://www.rust-lang.org][rust]].
+
+I bit off a huge chunk of rust and tried to learn [[https://github.com/Geal/nom][nom]] at the same time and made an attempt at a [[https://github.com/kitchen/kiss][KISS frame parser]], but I ran into understanding issues, so I thought maybe it would be good to take a step back and try a different approach. Hence, [[https://adventofcode.com/2019][AOC2019]], which I've [[https://github.com/kitchen/aoc2019][already done a lot of]], but I'll do it in rust this time. Maybe. It's worth a shot.
+
+Anywho, one thing I know going into this is that there's going to be a long running "let's make it have more features" thing for the Intcode computer, so I miiiiight try to make that a separate module and iterate on it this time, keeping the existing usage of the computer functioning rather as I go rather than abandoning it, but I might not. We'll see.
+
+Hooray!
